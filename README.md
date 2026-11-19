@@ -29,7 +29,7 @@ A web-based application developed using PHP and MySQL to facilitate communicatio
 - Feedback and messaging functionality.
 - Fee and payment management.
 
-**Source Code:** [View Online Parent-Teacher Meeting System](./online-parent-teacher-meeting-system-public/)
+**Source Code:** [View Online Parent-Teacher Meeting System](https://github.com/AkashKhokhar777/web-development-portfolio/tree/main/online-parent-teacher-meeting-system-public)
 
 **Note:** The database, uploaded documents, and private configuration files are intentionally excluded from this public repository.
 

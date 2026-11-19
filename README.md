@@ -16,20 +16,31 @@ I build and improve websites using PHP, MySQL, HTML5, CSS and JavaScript. I focu
 
 ### Online Parent-Teacher Meeting System
 
-A web application developed using PHP and MySQL.
+A web-based application developed using PHP and MySQL to facilitate communication and meeting coordination between parents, teachers, and administrators.
 
-**Technologies used:** PHP, MySQL, HTML, CSS and JavaScript (where implemented).
+**Technologies Used:** PHP, MySQL, HTML, CSS and JavaScript.
 
-This project demonstrates my experience developing a database-backed web application.
+**Key Features:**
+- Separate admin, parent, and teacher modules.
+- Parent-teacher meeting management.
+- Meeting booking and scheduling.
+- Student and teacher management.
+- Attendance and academic records management.
+- Feedback and messaging functionality.
+- Fee and payment management.
+
+**Source Code:** [View Online Parent-Teacher Meeting System](./online-parent-teacher-meeting-system-public/)
+
+**Note:** The database, uploaded documents, and private configuration files are intentionally excluded from this public repository.
 
 ## Services
 
-- PHP bug fixing and debugging
-- MySQL queries and database troubleshooting
-- HTML and CSS corrections
-- Responsive website improvements
-- JavaScript functionality and form validation
-- Small website features and updates
+- PHP bug fixing and debugging.
+- MySQL queries and database troubleshooting.
+- HTML and CSS corrections.
+- Responsive website improvements.
+- JavaScript functionality and form validation.
+- Small website features and updates.
 
 ## My Approach
 

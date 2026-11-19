@@ -21,6 +21,7 @@ A web-based application developed using PHP and MySQL to facilitate communicatio
 **Technologies Used:** PHP, MySQL, HTML, CSS and JavaScript.
 
 **Key Features:**
+
 - Separate admin, parent, and teacher modules.
 - Parent-teacher meeting management.
 - Meeting booking and scheduling.
@@ -53,6 +54,6 @@ A web-based application developed using PHP and MySQL to facilitate communicatio
 
 For website development, bug fixes, or small web projects, contact me:
 
-**Email:** akashkk425@gmail.com
+**Email:** [akashkk425@gmail.com](mailto:akashkk425@gmail.com)
 
 Thank you for visiting my portfolio!
